@@ -56,7 +56,9 @@ Our ship's manifest (project structure) is as follows:
 - `train.csv`: Our training data (like lifeboat drills, but with numbers)
 - `test.csv`: Testing data (the real deal, no lifejackets allowed)
 - `submissions.csv`: Final predictions (our crystal ball for Titanic fates)
+- `titanic_model.pkl`: The pre-trained model (ready to predict your Titanic fate with precision!)
 - `README.md`: You are here! (X marks the spot 🗺️)
+
 
 ## 🛠 Installation
 
