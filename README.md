@@ -75,8 +75,8 @@ pip install --upgrade library_name
 Now, let's bring this ship into your harbor (clone the repository):
 
 ```bash
-git clone https://github.com/AbdouENSIA/titanic-survival-predictor.git
-cd titanic-survival-predictor
+git clone https://github.com/AbdouENSIA/Titanic-Survival-Predictor.git
+cd Titanic-Survival-Predictor
 ```
 
 ## 🚀 Usage
