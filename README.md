@@ -125,7 +125,7 @@ Alright, time to train our model to be the best fortune-teller it can be!
    - Split our data into training (80%) and validation (20%) sets
    - Trained a Random Forest Classifier with default parameters
    - Used `n_jobs=-1` to harness the power of all CPU cores (because more power = more fun!)
-   - Achieved a respectable 75% accuracy (not bad, but not quite unsinkable)
+   - Achieved a respectable 78% accuracy (not bad, but not quite unsinkable)
 
    ```python
    from sklearn.ensemble import RandomForestClassifier
