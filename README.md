@@ -154,11 +154,11 @@ Alright, time to train our model to be the best fortune-teller it can be!
 
 3. Final model:
    - Trained a Random Forest Classifier with the best hyperparameters found by Optuna
-   - Achieved 83% accuracy on average in cross-validation
+   - Achieved 85% accuracy on average in cross-validation
 
 ## 📈 Model Performance
 
-The improvement from 75% to 83% accuracy demonstrates the effectiveness of our feature engineering and hyperparameter tuning efforts.
+The improvement from 78% to 85% accuracy demonstrates the effectiveness of our feature engineering and hyperparameter tuning efforts.
 
 ## 📊 Visualizations
 
