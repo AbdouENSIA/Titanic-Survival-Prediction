@@ -1,4 +1,4 @@
-# 🚢 Titanic Survival Predictor: Will You Make It? 🧊
+# 🚢 Titanic Survival Prediction: Will You Make It? 🧊
 
 ## 📚 Table of Contents
 1. [Overview](#-overview)
